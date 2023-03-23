@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=nub-rin&color=ff69b4&style=flat-square&label=👀)
+
 # 💫 About Me:
 👋 Hi, I'm Arin Sharma.<br>👨‍💻 I am a 2<sup>nd</sup> year B.Tech student based in India.<br>🚀 Passionate about Automation, Artificial Intelligence and making stuff, I love exploring new technologies and tools to help me create innovative solutions.<br>💻 I have experience in several programming languages, which includes python, javascript, c++, java and enjoy collaborating with others to solve complex problems.<br>🎮 When I'm not coding, you can find me gaming 🕹️ or listening to music 🎵.<br>🤝 Feel free to check out my projects and connect with me on GitHub!<br> ❓ How to reach out to me? You can Email me at arinsharma12@gmail.com or reach out to me at any of my socials.
 
