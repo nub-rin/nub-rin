@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arin Sharma</h1>
-<hr></hr>
 
 ![](https://komarev.com/ghpvc/?username=nub-rin&color=ff69b4&style=flat-square&label=👀)
 
