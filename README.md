@@ -13,7 +13,7 @@
 
 - 🤝 Feel free to check out my projects and connect with me on GitHub!
 
-- ❓ How to reach out to me? You can Email me at arinsharma12@gmail.com or reach out to me at any of my socials.
+- ❓ How to reach out to me? You can Email me at hello@arin.dev or reach out to me at any of my socials.
 
 
 ## 🌐 Socials:
