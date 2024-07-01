@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nub-rin&color=ff69b4&style=flat-square&label=👀)
 
 # 💫 About Me:
-- 👨‍💻 I am a 3<sup>rd</sup> year B.Tech student based in India.
+- 👨‍💻 I am a 4<sup>th</sup> year B.Tech student based in India.
 
 - 🚀 Passionate about Automation, Artificial Intelligence and making stuff, I love exploring new technologies and tools to help me create innovative solutions.
 
