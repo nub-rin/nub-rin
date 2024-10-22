@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arin Sharma</h1>
 
-![](https://komarev.com/ghpvc/?username=nub-rin&color=ff69b4&style=flat-square&label=👀)
-
 # 💫 About Me:
 - 👨‍💻 I am a 4<sup>th</sup> year B.Tech student based in India.
 
