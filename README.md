@@ -24,3 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=nub-rin&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nub-rin&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nub-rin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+# Holopin Badges:
+[![An image of @thatnubarin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thatnubarin)](https://holopin.io/@thatnubarin)
