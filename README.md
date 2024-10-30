@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arin Sharma</h1>
+<h1 align="center">Hello! 👋, I'm Arin Sharma</h1>
 
 # 💫 About Me:
 - 👨‍💻 I am a 4<sup>th</sup> year B.Tech student based in India.
