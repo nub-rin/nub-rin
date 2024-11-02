@@ -5,7 +5,7 @@
 
 - 🚀 Passionate about Automation, Artificial Intelligence and making stuff, I love exploring new technologies and tools to help me create innovative solutions.
 
-- 💻 I have experience in several programming languages, which includes python, javascript, c++, java and enjoy collaborating with others to solve complex problems.
+- 💻 I have experience in several programming languages, which includes but not limited to python, javascript, c++, java and enjoy collaborating with others to solve complex problems.
 
 - 🎮 When I'm not coding, you can find me gaming 🕹️ or listening to music 🎵.
 
